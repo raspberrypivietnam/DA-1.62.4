@@ -1,8 +1,12 @@
 # v4Panel-1.62.4
 DirectAdmin Nulled - v4Panel
-#### Install:
+#### Install Centos 7:
 ```
 yum -y install nano wget perl;wget --no-check-certificate https://raw.githubusercontent.com/puarudz/v4Panel-1.62.4/main/setup.sh;chmod +x setup.sh;sed -i 's/\r//' setup.sh;./setup.sh
+```
+#### Install Centos 8:
+```
+yum -y install nano wget perl;wget --no-check-certificate https://raw.githubusercontent.com/puarudz/v4Panel-1.62.4/main/centos8.sh;chmod +x centos8.sh;sed -i 's/\r//' centos8.sh;./centos8.sh
 ```
 #### Nulled:
 ```
